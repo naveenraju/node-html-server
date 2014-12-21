@@ -10,7 +10,8 @@ Steps:
 2. npm install serve-static --save ( this --save will save the entry in a package.json for  future installs)
 3. create a new file (call it server.js).  and put the code as in here
 4. run `node server.js` -> This will start the serve and waits for http requests
-5. Open the browser and hit http://localhost:3000
+5. npm install node-static --save
+6. Open the browser and hit http://localhost:8080
 
 This will bring the static content from `public` folder.
 
