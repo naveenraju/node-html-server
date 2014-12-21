@@ -12,4 +12,6 @@ Steps:
 4. run `node server.js` -> This will start the serve and waits for http requests
 5. Open the browser and hit http://localhost:3000
 
-This will
+This will bring the static content from `public` folder.
+
+
